@@ -2,7 +2,7 @@
 This project a test project with laravel,Vuejs and vuetify
 
 ## how to set project
->###Prerequisites.
+> ## Prerequisites.
 > PHP 8.2.
 >
 > Composer2
@@ -13,7 +13,7 @@ This project a test project with laravel,Vuejs and vuetify
 > 
 > Vuetify 3
 > 
-> >###How to set up/Install
+> >### How to set up/Install
 >
 > `clone this repo`
 > 
@@ -22,7 +22,7 @@ This project a test project with laravel,Vuejs and vuetify
 > `run npm install`
 > 
 > `run php artisan migrate`
-> > ###How to test
+> > ### How to test
 > `while in the project root directory:`
 >
 > `run php artisan serve`
